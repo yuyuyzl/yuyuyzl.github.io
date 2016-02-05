@@ -1,0 +1,152 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#box {
+    float: left;
+    height: 48px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    -webkit-box-shadow: rgba(0, 0, 0, 0.45098) 3px 2px 3px 0px;
+    box-shadow: rgba(0, 0, 0, 0.45098) 3px 2px 3px 0px;
+}
+
+#text {
+    float: left;
+    font-size: 1.5em;
+    width: 208.03px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin-left: 3.269573%;
+    margin-top: 17px;
+    clear: both;
+    min-height: 65px;
+    font-family: helvetica;
+    margin-right: 0%;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 2.72858%;
+    margin-top: 30px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 2.7em;
+    margin-left: 20.119791%;
+    margin-top: -100px;
+    clear: none;
+    min-height: 0px;
+    font-family: 微软雅黑;
+    font-style: normal;
+    margin-right: 0%;
+}
+
+#box1 {
+    float: none;
+    height: 252px;
+    margin-left: auto;
+    margin-top: 89px;
+    clear: none;
+    width: 45.49em;
+    min-width: 0px;
+    margin-right: auto;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0.0021468%;
+    margin-top: 30px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#box2 {
+    float: left;
+    height: auto;
+    margin-left: 2.726434%;
+    margin-top: 0px;
+    clear: none;
+    width: 211.96875092px;
+    margin-right: 0px;
+}
+
+@media only screen and (max-width: 757px) {
+    #box1 {
+        height: 547px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+
+    #text {
+        margin-top: 14px;
+        margin-left: auto;
+        clear: none;
+        margin-right: auto;
+        float: none;
+    }
+
+    #text1 {
+        margin-top: 25px;
+        margin-left: auto;
+        clear: none;
+        text-align: center;
+        margin-right: auto;
+        float: none;
+        font-family: 微软雅黑;
+        font-size: 1em;
+        line-height: 2em;
+    }
+
+    #image {
+        margin-top: 0px;
+        margin-left: 0.00737137%;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #image1 {
+        margin-top: -100px;
+        margin-left: 111.984375155625px;
+        clear: both;
+        float: left;
+        margin-right: 0px;
+    }
+
+    #box2 {
+        float: none;
+        height: auto;
+        margin-left: auto;
+        margin-top: 26px;
+        clear: none;
+        width: 211.96875092px;
+        margin-right: auto;
+    }
+}
+
